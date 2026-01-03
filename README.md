@@ -66,3 +66,7 @@ This project was created to:
 
 **Devansh Kumar Singh**  
 _Data Science & Machine Learning Enthusiast_
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
